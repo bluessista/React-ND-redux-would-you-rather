@@ -21,10 +21,10 @@ let users = {
     },
     questions: ['loxhs1bqm25b708cmbf3g', 'vthrdm985a262al8qx3do'],
   },
-  johndoe: {
-    id: 'johndoe',
-    name: 'John Doe',
-    avatarURL: "https://tylermcginnis.com/would-you-rather/dan.jpg",
+  bluessista: {
+    id: 'bluessista',
+    name: 'Inga Bluessista',
+    avatarURL: "https://de.gravatar.com/userimage/107414085/df27c5ccf87a549cec9ac45df9fbaede.jpg",
     answers: {
       "xj352vofupe1dqz9emx13r": 'optionOne',
       "vthrdm985a262al8qx3do": 'optionTwo',
@@ -50,14 +50,14 @@ let questions = {
   },
   "6ni6ok3ym7mf1p33lnez": {
     id: '6ni6ok3ym7mf1p33lnez',
-    author: 'johndoe',
+    author: 'bluessista',
     timestamp: 1468479767190,
     optionOne: {
       votes: [],
       text: 'become a superhero',
     },
     optionTwo: {
-      votes: ['johndoe', 'sarahedo'],
+      votes: ['bluessista', 'sarahedo'],
       text: 'become a supervillain'
     }
   },
@@ -96,16 +96,16 @@ let questions = {
       text: 'find $50 yourself',
     },
     optionTwo: {
-      votes: ['johndoe'],
+      votes: ['bluessista'],
       text: 'have your best friend find $500'
     }
   },
   "xj352vofupe1dqz9emx13r": {
     id: 'xj352vofupe1dqz9emx13r',
-    author: 'johndoe',
+    author: 'bluessista',
     timestamp: 1493579767190,
     optionOne: {
-      votes: ['johndoe'],
+      votes: ['bluessista'],
       text: 'write JavaScript',
     },
     optionTwo: {
