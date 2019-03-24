@@ -1,5 +1,5 @@
-# Would You Rahter
-## a React and Redux Web Application
+# Would You Rather
+### a React and Redux Web Application
 
 This project is part of the Udacity React Nanodegree (started in Nov 2018) and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
